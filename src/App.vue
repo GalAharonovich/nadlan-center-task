@@ -396,6 +396,7 @@ body {
     "categoryTitle categoryTitle categoryTitle categoryTitle categoryTitle"
     "category category category category category";
   margin: auto;
+  margin-top: 60px;
 }
 
 .upperPage {
